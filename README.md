@@ -14,3 +14,5 @@ docker build -t {이미지명} .
 ```bash
 docker run --name {컨테이너명} -p 3306:3306 -d {이미지명}
 ```
+## remaining tasks
+mongoDB
