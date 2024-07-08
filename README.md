@@ -18,6 +18,3 @@ docker run --name {컨테이너명} -p 3306:3306 -d {이미지명}
 ## Your setting
 mysql setting(username, password ...)
 
-
-## remaining tasks
-mongoDB
