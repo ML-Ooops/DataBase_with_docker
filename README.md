@@ -18,3 +18,12 @@ docker run --name {컨테이너명} -p 3306:3306 -d {이미지명}
 ## Your setting
 mysql setting(username, password ...)
 
+
+
+# docker-compose_version-newsDB
+다른 형태의 실행 방식도 포함
+.yaml 확장자 파일
+
+```bash
+(git location)>docker-compose_version-newsDB> docker-compsoe up -d
+```
